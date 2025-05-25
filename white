@@ -1,6 +1,6 @@
 local a=tostring(game.Players.LocalPlayer.Character);
 
-if a=="用户名"then
+if a=="1"then
 
 _G.ggg=true
 
