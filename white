@@ -1,10 +1,10 @@
 local a=tostring(game.Players.LocalPlayer.Character);
 
-if a=="fjejffkm"then
+if a=="用户名"then
 
 _G.ggg=true
 
-elseif a=="1mgmp"then
+elseif a=="用户名"then
 
 _G.ggg=true
 
@@ -42,6 +42,6 @@ loadstring(game:HttpGet("https://pastefy.app/7NRuXg98/raw"))()
 
 else
 
-game.Players.LocalPlayer:Kick(a.."你没有白名单")
+game.Players.LocalPlayer:Kick(a.."脚本已暂停")
 
 end
