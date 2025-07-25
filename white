@@ -1,7 +1,7 @@
 --[[怎么才卖了两份啊，vu你是不是虚了]]
 local a=tostring(game.Players.LocalPlayer.Character);
 
-if a=="用户名"then
+if a=="NGH_zknv1"then
 
 _G.ggg=true
 
