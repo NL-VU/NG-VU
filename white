@@ -5,7 +5,7 @@ if a=="NGH_zknv1"then
 
 _G.ggg=true
 
-elseif a=="用户名"then
+elseif a=="DengYouGood"then
 
 _G.ggg=true
 
