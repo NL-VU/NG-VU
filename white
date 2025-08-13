@@ -1,4 +1,4 @@
---[[怎么才卖了两份啊，vu你是不是虚了]]
+
 local a=tostring(game.Players.LocalPlayer.Character);
 
 if a=="NGH_zknv1"then
@@ -21,15 +21,23 @@ elseif a=="xiayiyang"then
 
 _G.ggg=true
 
-elseif a=="用户名"then
+elseif a==""then
 
 _G.ggg=true
 
-elseif a=="用户名"then
+elseif a==""then
 
 _G.ggg=true
 
-elseif a=="用户名"then
+elseif a==""then
+
+_G.ggg=true
+
+elseif a==""then
+
+_G.ggg=true
+
+elseif a==""then
 
 _G.ggg=true
 
