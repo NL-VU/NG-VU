@@ -21,7 +21,7 @@ elseif a=="xiayiyang"then
 
 _G.ggg=true
 
-elseif a==""then
+elseif a=="Acpowerh7"then
 
 _G.ggg=true
 
